@@ -1,0 +1,3 @@
+[submodule "SkeletalInventory"]
+	path = SkeletalInventory
+	url = git@github.com:RDFBones/Phaleron-SkeletalInventory.git
